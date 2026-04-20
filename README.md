@@ -19,7 +19,6 @@ CET Tecnico Especialista em Ciberseguranca @ CINEL · Google Cybersecurity Profe
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white)
 ![ZeroTier](https://img.shields.io/badge/ZeroTier-EEEEEE?style=flat-square&logo=zerotier&logoColor=black)
-![Snort](https://img.shields.io/badge/Snort-CC0000?style=flat-square&logo=snort&logoColor=white)
 
 ### Operating Systems / Distros
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
@@ -39,9 +38,10 @@ CET Tecnico Especialista em Ciberseguranca @ CINEL · Google Cybersecurity Profe
 ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-### Threat Intelligence
+### Threat Intelligence & Frameworks
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white)
 ![AbuseIPDB](https://img.shields.io/badge/AbuseIPDB-CC0000?style=flat-square&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-003865?style=flat-square&logoColor=white)
 
 ### Vulnerability Scanning
 ![Nessus](https://img.shields.io/badge/Nessus-00B388?style=flat-square&logo=tenable&logoColor=white)
@@ -59,8 +59,8 @@ CET Tecnico Especialista em Ciberseguranca @ CINEL · Google Cybersecurity Profe
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=dotnet&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server_Mgmt_Studio-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server_Mgmt_Studio-CC2927?style=flat-square&logoColor=white)
 
 ---
 
@@ -75,7 +75,7 @@ CET Tecnico Especialista em Ciberseguranca @ CINEL · Google Cybersecurity Profe
 
 ## Practice Platforms
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Ricard0D1as)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/R1cHarD1as)
 [![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/Ricard0D1as)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white)](https://www.codewars.com/users/Ricard0D1as)
 
