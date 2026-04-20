@@ -33,7 +33,7 @@ CET Tecnico Especialista em Ciberseguranca @ CINEL · Google Cybersecurity Profe
 ![containerd](https://img.shields.io/badge/containerd-575757?style=flat-square&logo=containerd&logoColor=white)
 ![Distrobox](https://img.shields.io/badge/Distrobox-1793D1?style=flat-square&logo=distrobox&logoColor=white)
 
-### SIEM / DASHBOARDING
+### SIEM / Dashboarding
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
