@@ -1,6 +1,9 @@
-# Ricardo Jorge Coelho Dias
+<img src="terminal.svg" alt="terminal" width="100%"/>
 
-**Cybersecurity Specialist in Training** | Lisbon, Portugal
+
+# Ricardo Coelho Dias
+
+**Cybersecurity Specialist ** | Lisbon, Portugal
 
 CET Tecnico Especialista em Ciberseguranca @ CINEL · Google Cybersecurity Professional · Cisco Ethical Hacker · IBM Security+ & CySA+ Assessment
 
