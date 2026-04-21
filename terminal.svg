@@ -1,0 +1,66 @@
+<svg width="680" height="320" viewBox="0 0 680 320" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Kali Linux terminal — Ricardo Dias GitHub profile</title>
+  <desc>Animated terminal simulating a Kali Linux prompt</desc>
+  <style>
+    .tb{fill:#1a1a2e}.bar{fill:#2d2d44}.dr{fill:#ff5f56}.dy{fill:#ffbd2e}.dg{fill:#27c93f}
+    text{font-family:'Courier New',monospace;font-size:13px}
+    .u{fill:#57c7ff}.at{fill:#b0b0c0}.h{fill:#5af78e}.p{fill:#9aedfe}.s{fill:#ff5c57}
+    .cmd{fill:#eff0eb}.lbl{fill:#5af78e;font-weight:bold}.val{fill:#eff0eb}.mut{fill:#8b8b9e;font-size:12px}
+    .l1{opacity:0;animation:fi .1s .3s forwards}
+    .l2{opacity:0;animation:fi .1s .8s forwards}
+    .l3{opacity:0;animation:fi .1s 1.0s forwards}
+    .l4{opacity:0;animation:fi .1s 1.5s forwards}
+    .l5{opacity:0;animation:fi .1s 1.7s forwards}
+    .l6{opacity:0;animation:fi .1s 1.9s forwards}
+    .l7{opacity:0;animation:fi .1s 2.1s forwards}
+    .l8{opacity:0;animation:fi .1s 2.3s forwards}
+    .l9{opacity:0;animation:fi .1s 2.6s forwards}
+    .l10{opacity:0;animation:fi .1s 2.8s forwards}
+    .l11{opacity:0;animation:fi .1s 3.1s forwards}
+    .l12{opacity:0;animation:fi .1s 3.3s forwards}
+    .l13{opacity:0;animation:fi .1s 3.5s forwards}
+    .l14{opacity:0;animation:fi .1s 3.8s forwards}
+    .l15{opacity:0;animation:fi .1s 4.0s forwards}
+    .cur{opacity:0;animation:fi .1s 4.0s forwards,bk 1s 4.0s step-end infinite}
+    @keyframes fi{to{opacity:1}}
+    @keyframes bk{0%,100%{opacity:1}50%{opacity:0}}
+  </style>
+
+  <rect width="680" height="320" rx="10" class="tb"/>
+  <rect x="0" y="0" width="680" height="32" rx="10" class="bar"/>
+  <rect x="0" y="20" width="680" height="12" class="bar"/>
+  <circle cx="20" cy="16" r="6" class="dr"/>
+  <circle cx="40" cy="16" r="6" class="dy"/>
+  <circle cx="60" cy="16" r="6" class="dg"/>
+  <text x="340" y="21" text-anchor="middle" class="mut">terminal — ricardo@kali: ~</text>
+
+  <g class="l1">
+    <text x="20" y="58"><tspan class="s">┌──(</tspan><tspan class="u">ricardo</tspan><tspan class="at">㉿</tspan><tspan class="h">kali</tspan><tspan class="s">)-[</tspan><tspan class="p">~</tspan><tspan class="s">]</tspan></text>
+    <text x="20" y="75"><tspan class="s">└─$ </tspan><tspan class="cmd">whoami</tspan></text>
+  </g>
+  <text x="20" y="92" class="val l2">Ricardo Dias — Cybersecurity Specialist </text>
+
+  <g class="l3">
+    <text x="20" y="112"><tspan class="s">┌──(</tspan><tspan class="u">ricardo</tspan><tspan class="at">㉿</tspan><tspan class="h">kali</tspan><tspan class="s">)-[</tspan><tspan class="p">~</tspan><tspan class="s">]</tspan></text>
+    <text x="20" y="129"><tspan class="s">└─$ </tspan><tspan class="cmd">cat skills.txt</tspan></text>
+  </g>
+  <text x="20" y="147" class="l4"><tspan class="lbl">[SIEM]      </tspan><tspan class="val">Wazuh · Splunk · ELK Stack</tspan></text>
+  <text x="20" y="163" class="l5"><tspan class="lbl">[Network]   </tspan><tspan class="val">Wireshark · Suricata · Snort · pfSense · OPNsense</tspan></text>
+  <text x="20" y="179" class="l6"><tspan class="lbl">[Pentest]   </tspan><tspan class="val">Metasploit · Burp Suite · Nmap · OWASP ZAP</tspan></text>
+  <text x="20" y="195" class="l7"><tspan class="lbl">[Scripting] </tspan><tspan class="val">Python · C# · Bash · PowerShell</tspan></text>
+  <text x="20" y="211" class="l8"><tspan class="lbl">[SOAR]      </tspan><tspan class="val">n8n · TheHive · Shuffle</tspan></text>
+
+  <g class="l9">
+    <text x="20" y="231"><tspan class="s">┌──(</tspan><tspan class="u">ricardo</tspan><tspan class="at">㉿</tspan><tspan class="h">kali</tspan><tspan class="s">)-[</tspan><tspan class="p">~</tspan><tspan class="s">]</tspan></text>
+    <text x="20" y="248"><tspan class="s">└─$ </tspan><tspan class="cmd">cat certs.txt</tspan></text>
+  </g>
+  <text x="20" y="265" class="val l10">Google Cybersecurity Professional  |  Cisco Ethical Hacker  |  IBM Security+ &amp; CySA+</text>
+
+  <g class="l11">
+    <text x="20" y="283"><tspan class="s">┌──(</tspan><tspan class="u">ricardo</tspan><tspan class="at">㉿</tspan><tspan class="h">kali</tspan><tspan class="s">)-[</tspan><tspan class="p">~</tspan><tspan class="s">]</tspan></text>
+    <text x="20" y="300"><tspan class="s">└─$ </tspan><tspan class="cmd">echo $LOCATION</tspan></text>
+  </g>
+  <text x="20" y="316" class="val l12">Lisbon, Portugal</text>
+
+  <rect x="20" y="304" width="8" height="14" class="cur" fill="#eff0eb"/>
+</svg>
