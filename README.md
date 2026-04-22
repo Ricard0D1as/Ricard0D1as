@@ -99,5 +99,7 @@ CET Tecnico Especialista em Ciberseguranca @ CINEL · Google Cybersecurity Profe
 
 ## Connect
 
+https://tryhackme.com/R1cHarD1as/streak?sharerId=677feb11df0bf8972b4e3a40
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ricardojcdias)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ricard0D1as)
