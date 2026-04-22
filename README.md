@@ -89,6 +89,7 @@ CET Tecnico Especialista em Ciberseguranca @ CINEL · Google Cybersecurity Profe
 | Project | Description |
 |---|---|
 | [SOC SOAR Lab](https://github.com/Ricard0D1as/wazuh-n8n-soar) | Wazuh alerts -> IP enrichment (AbuseIPDB + VirusTotal) -> Discord notification using n8n |
+| [AI SOC Analyst](https://github.com/Ricard0D1as/wazuh-claude-soc-analyst) | Wazuh alerts → Claude AI triage (Haiku 4.5) + AbuseIPDB + VirusTotal → Discord with AI-generated incident analysis |
 | [CET103 Dual-Site Network](https://github.com/Ricard0D1as) | pfSense + OPNsense · IPSec · WireGuard/OpenVPN · RADIUS · Wazuh SIEM |
 | [Windows Server AD Lab](https://github.com/Ricard0D1as) | Active Directory, GPO, DNS/DHCP on Windows Server 2022 |
 | [LLM Pentest - ZeroHealthBot](https://github.com/Ricard0D1as) | Authorised chatbot pentest · OWASP LLM Top 10 · CVSS scoring |
